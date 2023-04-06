@@ -1,0 +1,17 @@
+38:sscanf(infos, "%s %s %d ans %s",&Prenom,&Nom,&age,&truc);
+prends chaque chaine caractere meme caractere 
+
+39:int *data =NULL;
+if ((data = (int *)calloc(taille,sizeof(int)))== NULL)
+op getchar
+while{
+< i= i+1 % taille ;break
+> i= (i+ taille -1) %taille break
++ data[i]++
+- data[i]--
+= for 
+op getchar
+ }
+free data
+
+40:9 coup max ncurses 27
