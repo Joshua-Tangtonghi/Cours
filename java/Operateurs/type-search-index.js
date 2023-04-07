@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"fr.esgi.poo.joshua","l":"CalcAlphaNum"},{"p":"fr.esgi.poo.joshua","l":"Main"}];updateSearchResults();
